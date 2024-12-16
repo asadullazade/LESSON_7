@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body {
+  width: 1440px;
+}
+.section {
+  background-color: rgb(39, 76, 91);
+}
+.container-1 {
+  display: flex;
+}
+.product {
+  color: rgb(126, 182, 147);
+  font-family: Yellowtail;
+  font-size: 36px;
+}
+
+.main {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  margin: 20px 580px 48px 30px;
+}
+
+.btn {
+  color: rgb(39, 76, 91);
+  font-family: Roboto;
+  font-size: 20px;
+  border-radius: 16px;
+  background: rgb(239, 211, 114);
+}
+
+.vgt {
+  background-color: rgb(249, 248, 248);
+  width: 447px;
+  height: 590px;
+  border-radius: 30px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+.fruit {
+  background-color: rgb(249, 248, 248);
+
+  border-radius: 30px;
+  margin-right: 20px;
+}
+.vgt-2 {
+  width: 447px;
+  height: 590px;
+  border-radius: 30px;
+  background: rgb(249, 248, 248);
+  margin-right: 30px;
+}
+.style {
+  border-radius: 8px;
+  background: rgb(39, 76, 91);
+  width: 118px;
+  height: 37px;
+  margin-top: 30px;
+  margin-left: 30px;
+  padding: 6px 20px;
+}
+.menu {
+  display: flex;
+}
+.info-container {
+  display: flex;
+}
+.tomato {
+  margin: 30px 30px;
+  border-style: dashed;
+  border-color: grey;
+  border-width: 1px;
+}
+.fruit-style {
+  margin: 30px 30px;
+  border-style: dashed;
+  border-color: grey;
+  border-width: 1px;
+}
+.popcorn {
+  margin: 30px 30px;
+  border-style: dashed;
+  border-color: grey;
+  border-width: 1px;
+}
+.cost {
+  color: grey;
+  margin: 10px;
+}
+.cost-2 {
+  color: black;
+  margin: 10px;
+}
+.star {
+  width: 13.32px;
+  height: 12.77px;
+}
+
+.elements {
+  margin: 10px;
+}
